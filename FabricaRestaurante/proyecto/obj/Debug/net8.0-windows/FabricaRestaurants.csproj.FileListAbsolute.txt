@@ -1,0 +1,16 @@
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.exe
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.deps.json
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.runtimeconfig.json
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfoInputs.cache
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfo.cs
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\refint\FabricaRestaurants.dll
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.genruntimeconfig.cache
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\ref\FabricaRestaurants.dll
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricasRestaurantes.MainForm.resources
+C:\Users\JrBdk\OneDrive\Imágenes\Escritorio\Proyecto-en-Equipo-Integrador-Restaurante-Factory-main\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.csproj.GenerateResource.cache
