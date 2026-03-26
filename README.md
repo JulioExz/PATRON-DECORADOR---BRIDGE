@@ -1,5 +1,5 @@
 # PATRON-DECORADOR---BRIDGE
-Patron de diseno enfocado en Restaurante Factory implementando los patrones Decorador y Bridge
+Patron de diseño enfocado en Restaurante Factory implementando los patrones Decorador y Bridge
 
 ## CLASES DEL PATRON BRIDGE
 
